@@ -11,8 +11,13 @@ hr {
     width: 5%;
 }
 
-h1, h3 {
-    color: #c59b56;
+.subtext {
+    color: #c59b56; 
+}
+
+.subtext:hover {
+    color: #85683a; 
+    transition-delay: 0.5s;
 }
 
 .pfp {
